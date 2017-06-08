@@ -7619,7 +7619,7 @@ body {
     header .menu li {
       opacity: 1;
       width: auto;
-      margin-right: 50px;
+      margin-right: 8px;
       display: inline-block;
       float: left;
       color: #fff; }
